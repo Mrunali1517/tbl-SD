@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+}
+img{
+    width: 300px;
+    height:400px;
+}
+#home{
+    background: linear-gradient(rgb(191, 230, 154) 0%, rgb(115, 154, 196) 100%);
+}
+a{
+    text-decoration: none;
+}
+p{
+    text-align: justify;
+}
+ul{
+    list-style: none;
+    cursor: pointer;
+    top:10px;
+    position: fixed;
+}
+li{
+    float: left;
+    padding: 10px;
+    color:blue;
+    font-size: 15px;
+    font-family: 'Indie Flower', cursive;
+}
+li:hover{
+    font-size: 20px;
+    color:aliceblue;
+    background-color: chocolate;
+}
+h3{
+    font-family: 'Poor Story', cursive;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+p{
+    font-family: 'Cormorant Garamond', serif;
+}
+#writings a{
+    text-decoration: underline !important;
+    color:brown;
+}
